@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import gspread 
+
 from oauth2client.service_account import ServiceAccountCredentials
 
 
@@ -20,6 +21,9 @@ primaryColor="#ffc3c5"
 
 backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#92a8d1"
+
+
+
 
 textColor="#ffc3c5"
 font="Playfair Display"
